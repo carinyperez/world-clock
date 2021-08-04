@@ -1,0 +1,15 @@
+
+h1, p {
+    color: black;
+}
+
+img {
+    width: 80vw;
+}
+
+.clocks {
+    display: flex; 
+    justify-content: space-around;
+    width: 80vw;
+    flex-wrap: wrap;
+}
